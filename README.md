@@ -58,7 +58,7 @@ screenshots/dashboard.png
 ```
 
 <!-- Replace the line below with your actual screenshot after uploading -->
-<!-- ![HR Attrition Dashboard](screenshots/dashboard.png) -->
+<!-- ![HR Attrition Dashboard](HR_Analysis_Dashboard.png) -->
 
 ---
 
