@@ -54,7 +54,7 @@ Employee attrition is one of the most costly challenges for organizations. This 
 > *(Add your screenshot here)*
 
 ```
-screenshots/dashboard.png
+![HR Attrition Dashboard](HR_Analysis_Dashboard.png)
 ```
 
 <!-- Replace the line below with your actual screenshot after uploading -->
